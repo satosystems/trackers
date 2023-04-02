@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "vendor": "Satoshi Ogata",
+        "start": "2023-04-02T07:27:04.192Z",
+        "end": "2023-04-02T07:27:04.192Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [35.3863948, 139.5371553],
+          [35.3863955, 139.5371553],
+          [35.3863966, 139.5371553],
+        ]
+      }
+    }
+  ]
+}
